@@ -10,7 +10,7 @@
       "localizedDescription": "Eine per Sideload installierte Version der Duolingo Max App mit erweiterten KI-Funktionen.",
       "downloadURL": "https://www.dropbox.com/scl/fi/xz4v6zs4k0p7imr62bpi0/DuolingoMax_7.37.1.ipa?rlkey=9uqsgip5s6h45cu1qihreev1r&st=w3ovmj0o&dl=1",
       "size": 112000000,
-      "bundleIdentifier": "com.duolingo.Duolingo-Max",
+      "bundleIdentifier": "com.duolingo.DuolingoMobile",
       "developerName": "Joel",
       "iconURL": "https://i.imgur.com/gl8jTYA.jpeg"
     }
