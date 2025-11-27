@@ -1,0 +1,27 @@
+{
+  "name": "DuolingoMax Privatquelle",
+  "identifier": "com.ihrname.duolingoprivate",
+  "apps": [
+    {
+      "name": "Duolingo Max",
+      "subtitle": "KI-Funktionen Version 7.37.1 (Sideload)",
+      "version": "7.37.1",
+      "versionDate": "2025-11-27",
+      "versionDescription": "Dies ist die Duolingo Max .ipa-Datei, die für SideStore konfiguriert wurde. Der direkte Download-Link zeigt auf Ihren Dropbox-Link.",
+      "downloadURL": "https://www.dropbox.com/scl/fi/xz4v6zs4k0p7imr62bpi0/DuolingoMax_7.37.1.ipa?rlkey=9uqsgip5s6h45cu1qihreev1r&st=w3ovmj0o&dl=1",
+      "size": 100000000,
+      "bundleIdentifier": "com.duolingo.Duolingo-Max",
+      "developerName": "Duolingo, Inc.",
+      "localizedDescription": {
+        "de": "Eine per Sideload installierte Version der Duolingo Max App. Enthält MAX subcription."
+      }
+    }
+  ],
+  "news": [
+    {
+      "title": "Erste Version veröffentlicht",
+      "caption": "Duolingo Max 7.37.1 ist jetzt über diese Quelle verfügbar.",
+      "date": "2025-11-27"
+    }
+  ]
+}
