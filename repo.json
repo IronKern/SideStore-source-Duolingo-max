@@ -1,6 +1,6 @@
 {
   "name": "DuolingoMax by Joel",
-  "identifier": "com.ihrname.duolingoprivate",
+  "identifier": "com.joel.duolingoprivate",
   "apps": [
     {
       "name": "Duolingo Max",
@@ -12,7 +12,7 @@
       "size": 112000000,
       "bundleIdentifier": "com.duolingo.Duolingo-Max",
       "developerName": "Joel",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/4e/d6/76/4ed67699-2a9d-b4f0-ecf5-c2664b4c0576/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/512x512bb.png"
+      "iconURL": "https://i.imgur.com/gl8jTYA.jpeg"
     }
   ],
   "news": [
