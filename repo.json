@@ -17,7 +17,7 @@
   ],
   "news": [
     {
-      "identifier": "news.duolingo.max.release.7371", // *** Hinzugefügt zur Behebung des Fehlers ***
+      "identifier": "news.duolingo.max.release.7371",
       "title": "Duolingo MAX mit vielen funktionen ",
       "caption": "Duolingo Max 7.37.1 ist jetzt verfügbar.",
       "date": "2025-11-27"
