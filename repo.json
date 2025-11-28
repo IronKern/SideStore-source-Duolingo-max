@@ -1,12 +1,12 @@
 {
-  "name": "DuolingoMax by Joel",
+  "name": "DuolingoMax",
   "identifier": "com.joel.duolingoprivate",
   "apps": [
     {
       "name": "Duolingo Max",
-      "subtitle": "KI-Funktionen Version 7.37.1",
+      "subtitle": "KI-Funktionen sowie gepatcht MAX subcription 7.37.1",
       "version": "7.37.1",
-      "versionDate": "2023-11-27T10:00:00Z",
+      "versionDate": "2025-11-27T10:00:00Z",
       "localizedDescription": "Eine per Sideload installierte Version der Duolingo Max App mit erweiterten KI-Funktionen.",
       "downloadURL": "https://www.dropbox.com/scl/fi/xz4v6zs4k0p7imr62bpi0/DuolingoMax_7.37.1.ipa?rlkey=9uqsgip5s6h45cu1qihreev1r&st=w3ovmj0o&dl=1",
       "size": 112000000,
@@ -18,7 +18,7 @@
   "news": [
     {
       "identifier": "news.duolingo.max.release.7371", // *** Hinzugefügt zur Behebung des Fehlers ***
-      "title": "Erste Version veröffentlicht",
+      "title": "Duolingo MAX mit vielen funktionen ",
       "caption": "Duolingo Max 7.37.1 ist jetzt verfügbar.",
       "date": "2025-11-27"
     }
